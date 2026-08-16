@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
+  <name>Convergence</name>
+  <description>A professional dark theme for FreeCAD.</description>
+  <version>1.0.0</version>
+  <maintainer email="frkaguilar@gmail.com">difrkaguilar</maintainer>
+  <license>MIT</license>
+
+  <content>
+    <preferencepack>
+      <name>Convergence</name> <!-- This name have to match with the project forder -->
+      <description>A professional dark theme for FreeCAD</description>
+      <tag>dark</tag>
+      <tag>blender</tag>
+    </preferencepack>
+  </content>
+</package>
